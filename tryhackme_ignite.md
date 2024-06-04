@@ -32,21 +32,21 @@ i use Gobuster to find all the web page directory
 ```
 
 after visiting the web page i found the CMS, and its version and the version is vulnerable to remote code execution this is the CVE associated to the 
-![[pic1.png]]
+![image1](pic1.png)
 
 
 after i downloaded the script and run it i was able to execute commands on the target system and this is how it looks like 
 ![image2](pic2.png)
  
 and here is the shell i got after executing that command 
-![[pic3.png]]
+![image3](pic3.png)
 
 now time to escalate our privilege to the root user first I uploaded and launch linpeas
 and i found the database credentials
-![[pic4.png]]
+![image4](pic4.png)
 
 i connected to mysql using the user root and the password the we found which is "mememe" and nothing interesting in the database so what comes in my mind is to try to switch to the user root using the same password
 and guest what 
-![[pic5.png]] 
+![image5](pic5.png)
 
 #                                               Ignite is down 
