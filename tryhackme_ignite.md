@@ -36,7 +36,7 @@ after visiting the web page i found the CMS, and its version and the version is 
 
 
 after i downloaded the script and run it i was able to execute commands on the target system and this is how it looks like 
-![[pic2.png]]
+![image2](pic2.png)
  
 and here is the shell i got after executing that command 
 ![[pic3.png]]
