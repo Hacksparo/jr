@@ -38,6 +38,7 @@ after visiting the web page i found the CMS, and its version and the version is 
 after i downloaded the script and run it i was able to execute commands on the target system and this is how it looks like 
 ![image2](pic2.png)
  
+
 and here is the shell i got after executing that command 
 ![image3](pic3.png)
 
@@ -49,4 +50,4 @@ i connected to mysql using the user root and the password the we found which is 
 and guest what 
 ![image5](pic5.png)
 
-#                                               Ignite is down 
+#                                               Ignite pwned
