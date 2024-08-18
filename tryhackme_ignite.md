@@ -34,10 +34,8 @@ i use Gobuster to find all the web page directory
 after visiting the web page i found the CMS, and its version and the version is vulnerable to remote code execution this is the CVE associated to the 
 ![image1](pic1.png)
 
-
 after i downloaded the script and run it i was able to execute commands on the target system and this is how it looks like 
 ![image2](pic2.png)
- 
 
 and here is the shell i got after executing that command 
 ![image3](pic3.png)
