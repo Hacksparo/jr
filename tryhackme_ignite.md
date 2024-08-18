@@ -41,7 +41,7 @@ after i downloaded the script and run it i was able to execute commands on the t
 and here is the shell i got after executing that command 
 ![image3](pic3.png)
 
-now time to escalate our privilege to the root user first I uploaded and launch linpeas
+now time to escalate our privilege to the root user first I uploaded and launched linpeas
 and i found the database credentials
 ![image4](pic4.png)
 
